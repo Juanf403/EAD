@@ -1,0 +1,227 @@
+c:\users\rigoberto\documents\visual studio 2015\Projects\LexicoV2\LexicoV2\bin\Debug\LexicoV2.exe.config
+c:\users\rigoberto\documents\visual studio 2015\Projects\LexicoV2\LexicoV2\bin\Debug\LexicoV2.exe
+c:\users\rigoberto\documents\visual studio 2015\Projects\LexicoV2\LexicoV2\bin\Debug\LexicoV2.pdb
+c:\users\rigoberto\documents\visual studio 2015\Projects\LexicoV2\LexicoV2\obj\Debug\LexicoV2.csprojResolveAssemblyReference.cache
+c:\users\rigoberto\documents\visual studio 2015\Projects\LexicoV2\LexicoV2\obj\Debug\LexicoV2.Form1.resources
+c:\users\rigoberto\documents\visual studio 2015\Projects\LexicoV2\LexicoV2\obj\Debug\LexicoV2.Properties.Resources.resources
+c:\users\rigoberto\documents\visual studio 2015\Projects\LexicoV2\LexicoV2\obj\Debug\LexicoV2.csproj.GenerateResource.Cache
+c:\users\rigoberto\documents\visual studio 2015\Projects\LexicoV2\LexicoV2\obj\Debug\LexicoV2.exe
+c:\users\rigoberto\documents\visual studio 2015\Projects\LexicoV2\LexicoV2\obj\Debug\LexicoV2.pdb
+C:\Users\Angel\Desktop\LexicoV2\LexicoV2\bin\Debug\LexicoV2.exe.config
+C:\Users\Angel\Desktop\LexicoV2\LexicoV2\obj\Debug\LexicoV2.exe
+C:\Users\Angel\Desktop\LexicoV2\LexicoV2\obj\Debug\LexicoV2.pdb
+C:\Users\Angel\Desktop\LexicoV2\LexicoV2\bin\Debug\LexicoV2.exe
+C:\Users\Angel\Desktop\LexicoV2\LexicoV2\bin\Debug\LexicoV2.pdb
+C:\Users\Angel\Desktop\LexicoV2\LexicoV2\obj\Debug\LexicoV2.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Desktop\LexicoV2\LexicoV2\obj\Debug\LexicoV2.Form1.resources
+C:\Users\Angel\Desktop\LexicoV2\LexicoV2\obj\Debug\LexicoV2.Properties.Resources.resources
+C:\Users\Angel\Desktop\LexicoV2\LexicoV2\obj\Debug\LexicoV2.csproj.GenerateResource.Cache
+C:\Users\rigoberto\Desktop\LexicoV3\LexicoV2\bin\Debug\LexicoV2.exe.config
+C:\Users\rigoberto\Desktop\LexicoV3\LexicoV2\obj\Debug\LexicoV2.exe
+C:\Users\rigoberto\Desktop\LexicoV3\LexicoV2\obj\Debug\LexicoV2.pdb
+C:\Users\rigoberto\Desktop\LexicoV3\LexicoV2\bin\Debug\LexicoV2.exe
+C:\Users\rigoberto\Desktop\LexicoV3\LexicoV2\bin\Debug\LexicoV2.pdb
+C:\Users\rigoberto\Desktop\LexicoV3\LexicoV2\obj\Debug\LexicoV2.csprojResolveAssemblyReference.cache
+C:\Users\rigoberto\Desktop\LexicoV3\LexicoV2\obj\Debug\LexicoV2.Form1.resources
+C:\Users\rigoberto\Desktop\LexicoV3\LexicoV2\obj\Debug\LexicoV2.Properties.Resources.resources
+C:\Users\rigoberto\Desktop\LexicoV3\LexicoV2\obj\Debug\LexicoV2.csproj.GenerateResource.Cache
+D:\LexicoV3\LexicoV2\bin\Debug\LexicoV2.exe.config
+D:\LexicoV3\LexicoV2\obj\Debug\LexicoV2.exe
+D:\LexicoV3\LexicoV2\obj\Debug\LexicoV2.pdb
+D:\LexicoV3\LexicoV2\bin\Debug\LexicoV2.exe
+D:\LexicoV3\LexicoV2\bin\Debug\LexicoV2.pdb
+D:\LexicoV3\LexicoV2\obj\Debug\LexicoV2.csprojResolveAssemblyReference.cache
+D:\LexicoV3\LexicoV2\obj\Debug\LexicoV2.Form1.resources
+D:\LexicoV3\LexicoV2\obj\Debug\LexicoV2.Properties.Resources.resources
+D:\LexicoV3\LexicoV2\obj\Debug\LexicoV2.csproj.GenerateResource.Cache
+C:\Users\Angel\Documents\LexicoV4\LexicoV2\bin\Debug\LexicoV2.exe.config
+C:\Users\Angel\Documents\LexicoV4\LexicoV2\obj\Debug\LexicoV2.exe
+C:\Users\Angel\Documents\LexicoV4\LexicoV2\obj\Debug\LexicoV2.pdb
+C:\Users\Angel\Documents\LexicoV4\LexicoV2\bin\Debug\LexicoV2.exe
+C:\Users\Angel\Documents\LexicoV4\LexicoV2\bin\Debug\LexicoV2.pdb
+C:\Users\Angel\Documents\LexicoV4\LexicoV2\obj\Debug\LexicoV2.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\LexicoV4\LexicoV2\obj\Debug\LexicoV2.Form1.resources
+C:\Users\Angel\Documents\LexicoV4\LexicoV2\obj\Debug\LexicoV2.Properties.Resources.resources
+C:\Users\Angel\Documents\LexicoV4\LexicoV2\obj\Debug\LexicoV2.csproj.GenerateResource.Cache
+C:\Users\rigoberto\Desktop\LexicoV4\LexicoV2\bin\Debug\LexicoV2.exe.config
+C:\Users\rigoberto\Desktop\LexicoV4\LexicoV2\obj\Debug\LexicoV2.exe
+C:\Users\rigoberto\Desktop\LexicoV4\LexicoV2\obj\Debug\LexicoV2.pdb
+C:\Users\rigoberto\Desktop\LexicoV4\LexicoV2\bin\Debug\LexicoV2.exe
+C:\Users\rigoberto\Desktop\LexicoV4\LexicoV2\bin\Debug\LexicoV2.pdb
+C:\Users\rigoberto\Desktop\LexicoV4\LexicoV2\obj\Debug\LexicoV2.csprojResolveAssemblyReference.cache
+C:\Users\rigoberto\Desktop\LexicoV4\LexicoV2\obj\Debug\LexicoV2.Form1.resources
+C:\Users\rigoberto\Desktop\LexicoV4\LexicoV2\obj\Debug\LexicoV2.Properties.Resources.resources
+C:\Users\rigoberto\Desktop\LexicoV4\LexicoV2\obj\Debug\LexicoV2.csproj.GenerateResource.Cache
+C:\Users\Angel\Desktop\LexicoV4\LexicoV2\bin\Debug\LexicoV2.exe.config
+C:\Users\Angel\Desktop\LexicoV4\LexicoV2\obj\Debug\LexicoV2.exe
+C:\Users\Angel\Desktop\LexicoV4\LexicoV2\obj\Debug\LexicoV2.pdb
+C:\Users\Angel\Desktop\LexicoV4\LexicoV2\bin\Debug\LexicoV2.exe
+C:\Users\Angel\Desktop\LexicoV4\LexicoV2\bin\Debug\LexicoV2.pdb
+C:\Users\Angel\Desktop\LexicoV4\LexicoV2\obj\Debug\LexicoV2.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Desktop\LexicoV4\LexicoV2\obj\Debug\LexicoV2.Form1.resources
+C:\Users\Angel\Desktop\LexicoV4\LexicoV2\obj\Debug\LexicoV2.Properties.Resources.resources
+C:\Users\Angel\Desktop\LexicoV4\LexicoV2\obj\Debug\LexicoV2.csproj.GenerateResource.Cache
+C:\Users\Angel\Desktop\LexicoV6\LexicoV2\bin\Debug\LexicoV2.exe.config
+C:\Users\Angel\Desktop\LexicoV6\LexicoV2\obj\Debug\LexicoV2.exe
+C:\Users\Angel\Desktop\LexicoV6\LexicoV2\obj\Debug\LexicoV2.pdb
+C:\Users\Angel\Desktop\LexicoV6\LexicoV2\bin\Debug\LexicoV2.exe
+C:\Users\Angel\Desktop\LexicoV6\LexicoV2\bin\Debug\LexicoV2.pdb
+C:\Users\Angel\Desktop\LexicoV6\LexicoV2\obj\Debug\LexicoV2.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Desktop\LexicoV6\LexicoV2\obj\Debug\LexicoV2.Form1.resources
+C:\Users\Angel\Desktop\LexicoV6\LexicoV2\obj\Debug\LexicoV2.Properties.Resources.resources
+C:\Users\Angel\Desktop\LexicoV6\LexicoV2\obj\Debug\LexicoV2.csproj.GenerateResource.Cache
+C:\Users\rigoberto\Desktop\Nueva carpeta (7)\LexicoV6\LexicoV2\bin\Debug\LexicoV2.exe.config
+C:\Users\rigoberto\Desktop\Nueva carpeta (7)\LexicoV6\LexicoV2\obj\Debug\LexicoV2.exe
+C:\Users\rigoberto\Desktop\Nueva carpeta (7)\LexicoV6\LexicoV2\obj\Debug\LexicoV2.pdb
+C:\Users\rigoberto\Desktop\Nueva carpeta (7)\LexicoV6\LexicoV2\bin\Debug\LexicoV2.exe
+C:\Users\rigoberto\Desktop\Nueva carpeta (7)\LexicoV6\LexicoV2\bin\Debug\LexicoV2.pdb
+C:\Users\rigoberto\Desktop\Nueva carpeta (7)\LexicoV6\LexicoV2\obj\Debug\LexicoV2.csprojResolveAssemblyReference.cache
+C:\Users\rigoberto\Desktop\Nueva carpeta (7)\LexicoV6\LexicoV2\obj\Debug\LexicoV2.Form1.resources
+C:\Users\rigoberto\Desktop\Nueva carpeta (7)\LexicoV6\LexicoV2\obj\Debug\LexicoV2.Properties.Resources.resources
+C:\Users\rigoberto\Desktop\Nueva carpeta (7)\LexicoV6\LexicoV2\obj\Debug\LexicoV2.csproj.GenerateResource.Cache
+C:\Users\Angel\Desktop\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.exe.config
+C:\Users\Angel\Desktop\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.exe
+C:\Users\Angel\Desktop\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.pdb
+C:\Users\Angel\Desktop\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.exe
+C:\Users\Angel\Desktop\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.pdb
+C:\Users\Angel\Desktop\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Desktop\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.Form1.resources
+C:\Users\Angel\Desktop\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.Properties.Resources.resources
+C:\Users\Angel\Desktop\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.csproj.GenerateResource.Cache
+D:\Lenguaje y automatas 2\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.exe.config
+D:\Lenguaje y automatas 2\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.exe
+D:\Lenguaje y automatas 2\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.pdb
+D:\Lenguaje y automatas 2\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.exe
+D:\Lenguaje y automatas 2\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.pdb
+D:\Lenguaje y automatas 2\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.csprojResolveAssemblyReference.cache
+D:\Lenguaje y automatas 2\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.Form1.resources
+D:\Lenguaje y automatas 2\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.Properties.Resources.resources
+D:\Lenguaje y automatas 2\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.csproj.GenerateResource.Cache
+C:\Users\GSK\Documents\ITNL\Septimo Semestre\Automatas ll\TODO\copy seguridad\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.exe.config
+C:\Users\GSK\Documents\ITNL\Septimo Semestre\Automatas ll\TODO\copy seguridad\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.exe
+C:\Users\GSK\Documents\ITNL\Septimo Semestre\Automatas ll\TODO\copy seguridad\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.pdb
+C:\Users\GSK\Documents\ITNL\Septimo Semestre\Automatas ll\TODO\copy seguridad\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.exe
+C:\Users\GSK\Documents\ITNL\Septimo Semestre\Automatas ll\TODO\copy seguridad\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.pdb
+C:\Users\GSK\Documents\ITNL\Septimo Semestre\Automatas ll\TODO\copy seguridad\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.csprojResolveAssemblyReference.cache
+C:\Users\GSK\Documents\ITNL\Septimo Semestre\Automatas ll\TODO\copy seguridad\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.Form1.resources
+C:\Users\GSK\Documents\ITNL\Septimo Semestre\Automatas ll\TODO\copy seguridad\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.Properties.Resources.resources
+C:\Users\GSK\Documents\ITNL\Septimo Semestre\Automatas ll\TODO\copy seguridad\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.csproj.GenerateResource.Cache
+C:\Users\GSK\Documents\ITNL\Septimo Semestre\Automatas ll\TODO\copy seguridad - copia\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.exe.config
+C:\Users\GSK\Documents\ITNL\Septimo Semestre\Automatas ll\TODO\copy seguridad - copia\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.exe
+C:\Users\GSK\Documents\ITNL\Septimo Semestre\Automatas ll\TODO\copy seguridad - copia\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.pdb
+C:\Users\GSK\Documents\ITNL\Septimo Semestre\Automatas ll\TODO\copy seguridad - copia\LexicoV11\LexicoV6\LexicoV2\bin\Debug\AUTOMATAS.accdb
+C:\Users\GSK\Documents\ITNL\Septimo Semestre\Automatas ll\TODO\copy seguridad - copia\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.exe
+C:\Users\GSK\Documents\ITNL\Septimo Semestre\Automatas ll\TODO\copy seguridad - copia\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.pdb
+C:\Users\GSK\Documents\ITNL\Septimo Semestre\Automatas ll\TODO\copy seguridad - copia\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.csprojResolveAssemblyReference.cache
+C:\Users\GSK\Documents\ITNL\Septimo Semestre\Automatas ll\TODO\copy seguridad - copia\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.Form1.resources
+C:\Users\GSK\Documents\ITNL\Septimo Semestre\Automatas ll\TODO\copy seguridad - copia\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.Properties.Resources.resources
+C:\Users\GSK\Documents\ITNL\Septimo Semestre\Automatas ll\TODO\copy seguridad - copia\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.csproj.GenerateResource.Cache
+C:\Users\rigor\Desktop\copy seguridad - copia\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.exe.config
+C:\Users\rigor\Desktop\copy seguridad - copia\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.exe
+C:\Users\rigor\Desktop\copy seguridad - copia\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.pdb
+C:\Users\rigor\Desktop\Automatas\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.exe.config
+C:\Users\rigor\Desktop\Automatas\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.exe
+C:\Users\rigor\Desktop\Automatas\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.pdb
+C:\Users\rigor\Desktop\Automatas\LexicoV11\LexicoV6\LexicoV2\bin\Debug\AUTOMATAS.accdb
+C:\Users\rigor\Desktop\Automatas\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.exe
+C:\Users\rigor\Desktop\Automatas\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.pdb
+C:\Users\rigor\Desktop\Automatas\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.csprojResolveAssemblyReference.cache
+C:\Users\rigor\Desktop\Automatas\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.Form1.resources
+C:\Users\rigor\Desktop\Automatas\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.Properties.Resources.resources
+C:\Users\rigor\Desktop\Automatas\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.csproj.GenerateResource.Cache
+C:\Users\GSK\Desktop\Automatas\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.exe.config
+C:\Users\GSK\Desktop\Automatas\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.exe
+C:\Users\GSK\Desktop\Automatas\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.pdb
+C:\Users\GSK\Desktop\Automatas\LexicoV11\LexicoV6\LexicoV2\bin\Debug\AUTOMATAS.accdb
+C:\Users\GSK\Desktop\Automatas\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.exe
+C:\Users\GSK\Desktop\Automatas\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.pdb
+C:\Users\GSK\Desktop\Automatas\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.csprojResolveAssemblyReference.cache
+C:\Users\GSK\Desktop\Automatas\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.Form1.resources
+C:\Users\GSK\Desktop\Automatas\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.Properties.Resources.resources
+C:\Users\GSK\Desktop\Automatas\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.csproj.GenerateResource.Cache
+C:\Users\Roberto\Desktop\Automatas\programa ERICK CASTELLANOS\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.exe.config
+C:\Users\Roberto\Desktop\Automatas\programa ERICK CASTELLANOS\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.exe
+C:\Users\Roberto\Desktop\Automatas\programa ERICK CASTELLANOS\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.pdb
+C:\Users\Roberto\Desktop\Automatas\programa ERICK CASTELLANOS\LexicoV11\LexicoV6\LexicoV2\bin\Debug\AUTOMATAS.accdb
+C:\Users\Roberto\Desktop\Automatas\programa ERICK CASTELLANOS\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.exe
+C:\Users\Roberto\Desktop\Automatas\programa ERICK CASTELLANOS\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.pdb
+C:\Users\Roberto\Desktop\Automatas\programa ERICK CASTELLANOS\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\Desktop\Automatas\programa ERICK CASTELLANOS\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.Form1.resources
+C:\Users\Roberto\Desktop\Automatas\programa ERICK CASTELLANOS\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.Properties.Resources.resources
+C:\Users\Roberto\Desktop\Automatas\programa ERICK CASTELLANOS\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.csproj.GenerateResource.Cache
+C:\Users\Roberto\Desktop\Automatas\LexicoV6\LexicoV2\bin\Debug\LexicoV2.exe.config
+C:\Users\Roberto\Desktop\Automatas\LexicoV6\LexicoV2\obj\Debug\LexicoV2.exe
+C:\Users\Roberto\Desktop\Automatas\LexicoV6\LexicoV2\obj\Debug\LexicoV2.pdb
+C:\Users\Roberto\Desktop\Automatas\LexicoV6\LexicoV2\bin\Debug\AUTOMATAS.accdb
+C:\Users\Roberto\Desktop\Automatas\LexicoV6\LexicoV2\obj\Debug\LexicoV2.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\Desktop\Automatas\LexicoV6\LexicoV2\obj\Debug\LexicoV2.Form1.resources
+C:\Users\Roberto\Desktop\Automatas\LexicoV6\LexicoV2\obj\Debug\LexicoV2.Properties.Resources.resources
+C:\Users\Roberto\Desktop\Automatas\LexicoV6\LexicoV2\obj\Debug\LexicoV2.csproj.GenerateResource.Cache
+C:\Users\kormag\Desktop\TEC\7 semestre\AUTOMATAS 1\programa ERICK CASTELLANOS\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.exe.config
+C:\Users\kormag\Desktop\TEC\7 semestre\AUTOMATAS 1\programa ERICK CASTELLANOS\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.exe
+C:\Users\kormag\Desktop\TEC\7 semestre\AUTOMATAS 1\programa ERICK CASTELLANOS\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.pdb
+C:\Users\kormag\Desktop\TEC\7 semestre\AUTOMATAS 1\programa ERICK CASTELLANOS\LexicoV11\LexicoV6\LexicoV2\bin\Debug\AUTOMATAS.accdb
+C:\Users\kormag\Desktop\TEC\7 semestre\AUTOMATAS 1\programa ERICK CASTELLANOS\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.exe
+C:\Users\kormag\Desktop\TEC\7 semestre\AUTOMATAS 1\programa ERICK CASTELLANOS\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.pdb
+C:\Users\kormag\Desktop\TEC\7 semestre\AUTOMATAS 1\programa ERICK CASTELLANOS\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.csprojResolveAssemblyReference.cache
+C:\Users\kormag\Desktop\TEC\7 semestre\AUTOMATAS 1\programa ERICK CASTELLANOS\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.Form1.resources
+C:\Users\kormag\Desktop\TEC\7 semestre\AUTOMATAS 1\programa ERICK CASTELLANOS\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.Properties.Resources.resources
+C:\Users\kormag\Desktop\TEC\7 semestre\AUTOMATAS 1\programa ERICK CASTELLANOS\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.csproj.GenerateResource.Cache
+C:\Users\kormag\Desktop\basebckup\ja'a\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.exe.config
+C:\Users\kormag\Desktop\basebckup\ja'a\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.exe
+C:\Users\kormag\Desktop\basebckup\ja'a\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.pdb
+C:\Users\kormag\Desktop\basebckup\ja'a\LexicoV11\LexicoV6\LexicoV2\bin\Debug\AUTOMATAS.accdb
+C:\Users\kormag\Desktop\basebckup\ja'a\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.exe
+C:\Users\kormag\Desktop\basebckup\ja'a\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.pdb
+C:\Users\kormag\Desktop\basebckup\ja'a\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.csprojResolveAssemblyReference.cache
+C:\Users\kormag\Desktop\basebckup\ja'a\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.Form1.resources
+C:\Users\kormag\Desktop\basebckup\ja'a\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.Properties.Resources.resources
+C:\Users\kormag\Desktop\basebckup\ja'a\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.csproj.GenerateResource.Cache
+C:\Users\SEGURAW10\Desktop\LyA II\basebckup\ja'a\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.exe.config
+C:\Users\SEGURAW10\Desktop\LyA II\basebckup\ja'a\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.exe
+C:\Users\SEGURAW10\Desktop\LyA II\basebckup\ja'a\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.pdb
+C:\Users\SEGURAW10\Desktop\LyA II\basebckup\ja'a\LexicoV11\LexicoV6\LexicoV2\bin\Debug\AUTOMATAS.accdb
+C:\Users\SEGURAW10\Desktop\LyA II\basebckup\ja'a\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.exe
+C:\Users\SEGURAW10\Desktop\LyA II\basebckup\ja'a\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.pdb
+C:\Users\SEGURAW10\Desktop\LyA II\basebckup\ja'a\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.csprojResolveAssemblyReference.cache
+C:\Users\SEGURAW10\Desktop\LyA II\basebckup\ja'a\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.Form1.resources
+C:\Users\SEGURAW10\Desktop\LyA II\basebckup\ja'a\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.Properties.Resources.resources
+C:\Users\SEGURAW10\Desktop\LyA II\basebckup\ja'a\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.csproj.GenerateResource.Cache
+C:\Users\SEGURAW10\Desktop\9no\LyA II\basebckup\ja'a\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.exe.config
+C:\Users\SEGURAW10\Desktop\9no\LyA II\basebckup\ja'a\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.exe
+C:\Users\SEGURAW10\Desktop\9no\LyA II\basebckup\ja'a\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.pdb
+C:\Users\SEGURAW10\Desktop\9no\LyA II\basebckup\ja'a EL BUENO\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.exe.config
+C:\Users\SEGURAW10\Desktop\9no\LyA II\basebckup\ja'a EL BUENO\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.exe
+C:\Users\SEGURAW10\Desktop\9no\LyA II\basebckup\ja'a EL BUENO\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.pdb
+C:\Users\SEGURAW10\Desktop\automatas bueno\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.exe.config
+C:\Users\SEGURAW10\Desktop\automatas bueno\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.exe
+C:\Users\SEGURAW10\Desktop\automatas bueno\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.pdb
+C:\Users\SEGURAW10\Desktop\automatas bueno\LexicoV11\LexicoV6\LexicoV2\bin\Debug\AUTOMATAS.accdb
+C:\Users\SEGURAW10\Desktop\automatas bueno\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.exe
+C:\Users\SEGURAW10\Desktop\automatas bueno\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.pdb
+C:\Users\SEGURAW10\Desktop\automatas bueno\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.csprojResolveAssemblyReference.cache
+C:\Users\SEGURAW10\Desktop\automatas bueno\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.Form1.resources
+C:\Users\SEGURAW10\Desktop\automatas bueno\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.Properties.Resources.resources
+C:\Users\SEGURAW10\Desktop\automatas bueno\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.csproj.GenerateResource.Cache
+C:\Users\juanm\Documents\ITNL\9no\LYA2\lya\LexicoV11\LexicoV6\LexicoV2\bin\Debug\AUTOMATAS.accdb
+C:\Users\juanm\Documents\ITNL\9no\LYA2\lya\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.exe.config
+C:\Users\juanm\Documents\ITNL\9no\LYA2\lya\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.exe
+C:\Users\juanm\Documents\ITNL\9no\LYA2\lya\LexicoV11\LexicoV6\LexicoV2\bin\Debug\LexicoV2.pdb
+C:\Users\juanm\Documents\ITNL\9no\LYA2\lya\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.csprojResolveAssemblyReference.cache
+C:\Users\juanm\Documents\ITNL\9no\LYA2\lya\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.Form1.resources
+C:\Users\juanm\Documents\ITNL\9no\LYA2\lya\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.Properties.Resources.resources
+C:\Users\juanm\Documents\ITNL\9no\LYA2\lya\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.csproj.GenerateResource.Cache
+C:\Users\juanm\Documents\ITNL\9no\LYA2\lya\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.csproj.CoreCompileInputs.cache
+C:\Users\juanm\Documents\ITNL\9no\LYA2\lya\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.exe
+C:\Users\juanm\Documents\ITNL\9no\LYA2\lya\LexicoV11\LexicoV6\LexicoV2\obj\Debug\LexicoV2.pdb
+C:\Users\juanm\Documents\ITNL\9no\LYA2\EAD-C\EAD\LexicoV2\bin\Debug\AUTOMATAS.accdb
+C:\Users\juanm\Documents\ITNL\9no\LYA2\EAD-C\EAD\LexicoV2\bin\Debug\LexicoV2.exe.config
+C:\Users\juanm\Documents\ITNL\9no\LYA2\EAD-C\EAD\LexicoV2\bin\Debug\LexicoV2.exe
+C:\Users\juanm\Documents\ITNL\9no\LYA2\EAD-C\EAD\LexicoV2\bin\Debug\LexicoV2.pdb
+C:\Users\juanm\Documents\ITNL\9no\LYA2\EAD-C\EAD\LexicoV2\obj\Debug\LexicoV2.csprojResolveAssemblyReference.cache
+C:\Users\juanm\Documents\ITNL\9no\LYA2\EAD-C\EAD\LexicoV2\obj\Debug\LexicoV2.Form1.resources
+C:\Users\juanm\Documents\ITNL\9no\LYA2\EAD-C\EAD\LexicoV2\obj\Debug\LexicoV2.Properties.Resources.resources
+C:\Users\juanm\Documents\ITNL\9no\LYA2\EAD-C\EAD\LexicoV2\obj\Debug\LexicoV2.csproj.GenerateResource.Cache
+C:\Users\juanm\Documents\ITNL\9no\LYA2\EAD-C\EAD\LexicoV2\obj\Debug\LexicoV2.csproj.CoreCompileInputs.cache
+C:\Users\juanm\Documents\ITNL\9no\LYA2\EAD-C\EAD\LexicoV2\obj\Debug\LexicoV2.exe
+C:\Users\juanm\Documents\ITNL\9no\LYA2\EAD-C\EAD\LexicoV2\obj\Debug\LexicoV2.pdb

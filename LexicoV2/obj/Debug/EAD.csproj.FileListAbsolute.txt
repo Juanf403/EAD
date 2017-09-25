@@ -1,0 +1,11 @@
+C:\Users\juanm\Documents\ITNL\9no\LYA2\EAD-C\EAD\LexicoV2\bin\Debug\AUTOMATAS.accdb
+C:\Users\juanm\Documents\ITNL\9no\LYA2\EAD-C\EAD\LexicoV2\bin\Debug\LexicoV2.exe.config
+C:\Users\juanm\Documents\ITNL\9no\LYA2\EAD-C\EAD\LexicoV2\bin\Debug\LexicoV2.exe
+C:\Users\juanm\Documents\ITNL\9no\LYA2\EAD-C\EAD\LexicoV2\bin\Debug\LexicoV2.pdb
+C:\Users\juanm\Documents\ITNL\9no\LYA2\EAD-C\EAD\LexicoV2\obj\Debug\LexicoV2.Form1.resources
+C:\Users\juanm\Documents\ITNL\9no\LYA2\EAD-C\EAD\LexicoV2\obj\Debug\LexicoV2.Properties.Resources.resources
+C:\Users\juanm\Documents\ITNL\9no\LYA2\EAD-C\EAD\LexicoV2\obj\Debug\EAD.csproj.GenerateResource.Cache
+C:\Users\juanm\Documents\ITNL\9no\LYA2\EAD-C\EAD\LexicoV2\obj\Debug\EAD.csproj.CoreCompileInputs.cache
+C:\Users\juanm\Documents\ITNL\9no\LYA2\EAD-C\EAD\LexicoV2\obj\Debug\LexicoV2.exe
+C:\Users\juanm\Documents\ITNL\9no\LYA2\EAD-C\EAD\LexicoV2\obj\Debug\LexicoV2.pdb
+C:\Users\juanm\Documents\ITNL\9no\LYA2\EAD-C\EAD\LexicoV2\obj\Debug\EAD.csprojResolveAssemblyReference.cache
